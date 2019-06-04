@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "235154251013",
+    "firebase_url": "https://mypoc-b6fdf.firebaseio.com",
+    "project_id": "mypoc-b6fdf",
+    "storage_bucket": "mypoc-b6fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235154251013:android:b373559ddde27931",
+        "android_client_info": {
+          "package_name": "com.mfc.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235154251013-15h3ug8op7m3bqbbn0550n0etmo9mqb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXaAIK_ylw8cIjUWxCy7-qPE7WGkcEAyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
